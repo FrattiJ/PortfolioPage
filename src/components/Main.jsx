@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaGithub, FaLink, FaLinkedin, FaTwitch, FaYoutube} from 'react-icons/fa'
+import { FaGithub, FaLinkedin, FaTwitch, FaYoutube} from 'react-icons/fa'
 
 const Main = () => {
   return (
