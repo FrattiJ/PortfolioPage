@@ -1,8 +1,14 @@
-# React + Vite
+# Portfolio Page with Vite, React, and Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple and customized portfolio page built using Vite, React, and Tailwind CSS. It's designed to showcase my skills, projects, and other relevant information in a clean and responsive manner.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Vite**: Fast and optimized build tool for frontend development.
+- **React**: A popular JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+- **Responsive Design**: The portfolio is designed to work seamlessly on various screen sizes.
+
+## Preview
+
+## Deployable Link

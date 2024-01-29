@@ -31,7 +31,7 @@ const Projects = () => {
         <p className='text-center py-8'>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Error praesentium inventore sapiente nobis dicta alias molestiae, aperiam ipsa, aliquid rerum, obcaecati quaerat voluptatibus debitis sunt minus nam facere consectetur vitae.
         </p>
-        <div className='grid sm:grid-col-2 gap-12'>
+        <div className='grid sm:grid-cols-2 gap-12'>
             {items.map((items, idx) => (
                 <ProjectItem key={idx} image={items.image} title={items.title} git={items.git}/>
             ))}
