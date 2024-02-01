@@ -1,24 +1,28 @@
 import React from 'react'
 import ProjectItem from './ProjectItem'
+import WeatherWayz from '../assets/Weather Wayz.gif'
+import Personality from '../assets/sense-2326348_1280.jpg'
+import Horiseon from '../assets/Horiseon.gif'
+import Frog from '../assets/YouveBeenFrogged.jpg'
 
 const items = [
     {
-        image:'src/assets/Weather Wayz.gif',
+        image: {WeatherWayz},
         title:'Weather Wayz',
         git:'https://github.com/lewiscornelius/Group-1-shared-repo',
     },
     {
-        image:'src/assets/sense-2326348_1280.jpg',
+        image: Personality,
         title:'Personality Based Chat',
         git:'https://github.com/cliffordrouzeau/Project-2',
     },
     {
-        image:'src/assets/Horiseon.gif',
+        image:{Horiseon},
         title:'Horiseon',
         git:'https://github.com/FrattiJ/Horiseon',
     },
     {
-        image:'src/assets/YouveBeenFrogged.jpg',
+        image: {Frog},
         title:'Place Holder',
         git:'',
     },

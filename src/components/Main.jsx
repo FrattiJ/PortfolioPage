@@ -1,11 +1,12 @@
 import React from 'react'
 import { FaGithub, FaLinkedin, FaTwitch, FaYoutube} from 'react-icons/fa'
+import volleyballImage from './assets/Volleyball Meme.jpeg';
 
 const Main = () => {
   return (
     <div id='main'>
         <img className='w-full h-screen object-cover scale-x-[1] z-[-1]' 
-        src='src/assets/Volleyball Meme.jpeg'/>
+        src={volleyballImage}/>
         <div className='w-full h-screen absolute top-0 left-0 bg-white/80'>
             <div className='max-w-[700px] m-auto h-full w-full flex flex-col justify-center items-center'>
                 <h1 className='sm:text-5xl text-4xl font-bold text-gray-800'>Jacob S. Rahmann Fratti</h1>
