@@ -1,6 +1,6 @@
 import React from 'react'
 import { FaGithub, FaLinkedin, FaTwitch, FaYoutube} from 'react-icons/fa'
-import volleyballImage from './assets/Volleyball Meme.jpeg';
+import volleyballImage from '../assets/VolleyballMeme.jpeg';
 
 const Main = () => {
   return (
