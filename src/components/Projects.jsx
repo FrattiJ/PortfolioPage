@@ -7,7 +7,7 @@ import Frog from '../assets/YouveBeenFrogged.jpg'
 
 const items = [
     {
-        image: {WeatherWayz},
+        image: WeatherWayz,
         title:'Weather Wayz',
         git:'https://github.com/lewiscornelius/Group-1-shared-repo',
     },
@@ -17,12 +17,12 @@ const items = [
         git:'https://github.com/cliffordrouzeau/Project-2',
     },
     {
-        image:{Horiseon},
+        image:Horiseon,
         title:'Horiseon',
         git:'https://github.com/FrattiJ/Horiseon',
     },
     {
-        image: {Frog},
+        image: Frog,
         title:'Place Holder',
         git:'',
     },
