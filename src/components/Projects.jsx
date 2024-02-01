@@ -5,17 +5,17 @@ const items = [
     {
         image:'src/assets/Weather Wayz.gif',
         title:'Weather Wayz',
-        git:'',
+        git:'https://github.com/lewiscornelius/Group-1-shared-repo',
     },
     {
         image:'src/assets/sense-2326348_1280.jpg',
         title:'Personality Based Chat',
-        git:'',
+        git:'https://github.com/cliffordrouzeau/Project-2',
     },
     {
         image:'src/assets/Horiseon.gif',
         title:'Horiseon',
-        git:'',
+        git:'https://github.com/FrattiJ/Horiseon',
     },
     {
         image:'src/assets/YouveBeenFrogged.jpg',

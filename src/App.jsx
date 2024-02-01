@@ -7,7 +7,7 @@ import Contact from './components/Contact'
 import Footer from './components/Footer'
 
 function App() {
-
+// Didn't understand resolver code to create jsx routes to allow for mulitple pages with some shared components
   return (
     <div>
       <Navbar />
